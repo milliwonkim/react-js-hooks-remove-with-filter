@@ -16,7 +16,10 @@ const Div2 = styled.div`
   padding: 10px;
   height: 25rem;
   margin: 10px;
+<<<<<<< HEAD
   overflow-x: scroll;
+=======
+>>>>>>> 705c79fa9e343aa71573ce37cd82bea7e7b88d7b
 `;
 
 const App = () => {
